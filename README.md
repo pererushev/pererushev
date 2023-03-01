@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pererushev Roman
-- 👀 I’m interested in php
-- 🌱 I’m currently learning oop
+- 👀 I’m interested in web-development
+- 🌱 I’m currently learning architecture
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
